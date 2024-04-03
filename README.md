@@ -1,8 +1,24 @@
-# React + Vite
+# CV Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Links
 
-Currently, two official plugins are available:
+- [Live Link](https://e592f90f.cv-app-1bc.pages.dev/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Link to the Assignment](https://www.theodinproject.com/lessons/node-path-react-new-cv-application)
+
+## 📝 About
+
+This is the first React project I've made. It's a small app for creating CVs. You enter your details, and it turns them into a neat CV. Developed as part of the **React Course** at [The Odin Project.](https://www.theodinproject.com/)
+
+## 🛠️ Built With
+
+- HTML5 
+- CSS3
+- JavaScript
+- React
+
+## ⚙️ Other tools used
+
+- ESLint
+- Prettier
+- Vite
